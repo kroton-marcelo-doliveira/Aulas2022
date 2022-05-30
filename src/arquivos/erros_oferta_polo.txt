@@ -1,0 +1,89 @@
+OFERTA POLO COM ERRO: 60181733 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181736 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181738 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181739 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181741 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181743 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181746 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO ALTERADA: 60181750
+OFERTA POLO COM ERRO: 60181752 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181760 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181764 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181767 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181769 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181773 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181777 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181781 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181785 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181789 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181791 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181797 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO ALTERADA: 60181799
+OFERTA POLO COM ERRO: 60181800 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181803 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181805 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181814 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181817 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181819 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181821 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181823 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181825 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
+OFERTA POLO COM ERRO: 60181827 - ORA-20007: erro geral [TR_EDOFERUNID_BIU] ORA-20002:  Processo Seletivo bloqueado para este curso! Dúvidas entre em contato com a Diretoria de Gestão de Polos. 4937707
+ORA-06512: em "EDPROD.TR_EDOFERUNID_BIU", line 242
+ORA-04088: erro durante a execução do gatilho 'EDPROD.TR_EDOFERUNID_BIU'
